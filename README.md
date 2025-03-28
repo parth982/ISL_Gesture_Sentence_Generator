@@ -18,7 +18,7 @@ A real-time system that recognizes **Indian Sign Language (ISL) gestures**, clas
 ```bash
 cd FE 
 npm install 
-npm start
+npm run dev
 ```
 
 ### **Backend**
